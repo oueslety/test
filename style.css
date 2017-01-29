@@ -1,0 +1,87 @@
+div.conn 
+{
+margin-left : 1250px ;
+margin-top:5px;
+}
+div.google
+{
+margin-top:100px;
+}
+#inp {
+width : 44%;
+margin-left:400px;
+
+}
+div.bouton
+{
+margin-left:500px;
+
+}
+div.image
+{
+margin-left : 1150px ;
+margin-top:-22px;
+
+
+}
+div.menu
+{
+margin-left : 1211px;
+margin-top:-22px;
+}
+div.Gmail
+{
+margin-left : 1100px;
+margin-top:-20px;
+}
+div.Publicité
+{
+margin-bottom : 10000px;
+
+}
+div.foo
+{
+border-style:3px blue dashed;
+color: red ;
+}
+
+ul {
+ padding:0;
+ margin:0;
+ list-style-type:none;
+ }
+li {
+ margin-left:2px;
+ float:left; 
+ }
+ul li a {
+ display:block;
+
+ padding:5px;
+
+ }
+ #m1 {
+	 margin-left : 20px;
+	 
+ }
+ #m2 {
+	 margin-left : 1090px;
+	 
+ }
+ #footer {
+	 position : absolute;
+       font-size: small;
+        background:#f2f2f2;
+		margin-top: 13.5%;
+    border-top: 1px solid #e4e4e4;
+    line-height: 40px;
+	width:100%;
+	    margin-right: -27px;
+}
+
+a {
+	padding: 4px 10px; 
+	font-weight: bold;
+	text-decoration: none;
+	color: #666;
+}
